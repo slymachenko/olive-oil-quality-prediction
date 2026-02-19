@@ -1,0 +1,10 @@
+name: olive-oil-quality-prediction
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - pandas
+  - ipykernel
+  - numpy
+  - seaborn
+  - scikit-learn
