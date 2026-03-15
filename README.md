@@ -1,6 +1,6 @@
 # olive-oil-quality-prediction
 
-Olive oil quality prediction via fluorescence spectroscopy 
+Olive oil quality prediction via fluorescence spectroscopy
 
 ## Setup
 
